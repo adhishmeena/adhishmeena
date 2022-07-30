@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adhishmeena
 - 👀 I’m interested in Kubernetes,containers,devops and Go
-- 🌱 I’m currently learning Go 
+- 🌱 I’m currently learning and Building Application on Go
 - 💞️ I’m looking to collaborate on Go projects
 - 📫 you can reach me via linkedin 
 
