@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adhishmeena
-- 👀 I’m interested in containers,devops, Go,javascript,Kubernetes,podman and RHEL.
+- 👀 I’m interested in containers,devops, Go,javascript,Kubernetes,podman, RHEL and TypeScript.
 - 🌱 I’m currently learning and Building Application on Go.
 - 💞️ I’m looking to collaborate on Go projects.
 - 📫 you can reach me via linkedin.
