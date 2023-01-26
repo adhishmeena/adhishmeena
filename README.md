@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adhishmeena
-- 👀 I’m interested in Salesforce,containers, devops, Go, javascript, Kubernetes, podman, RHEL and TypeScript.
+- 👀 I’m interested in Salesforce, containers, devops, Go, javascript, Kubernetes, podman, RHEL and TypeScript.
 - 🌱 I’m currently learning and Building Application on Go and salesforce.
 - 💞️ I’m looking to collaborate on Go and Javascript projects.
 - 📫 you can reach me via linkedin.
